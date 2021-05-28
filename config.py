@@ -9,8 +9,7 @@ PLEX_FOLDERS = [
 ]
 
 REMOTE_USER = 'flapmaster'
-REMOTE_ADDR = '192.168.86.232'
-REMOTE_PASS = ''
+REMOTE_ADDR = ''
 REMOTE_PORT = 22
 
 PLEX_REMOTE_BASE = '/flapstorage/plex'
